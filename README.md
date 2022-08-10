@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stewart-27
+.- 👋 Hi, I’m @Stewart-27
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,3 +8,4 @@
 Stewart-27/Stewart-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->hello I'm Stewart nyaruwata.im interested on becoming full stack developer..I'm still studying at axl
+You can reach me through my socials Facebook ,Instagram and WhatsApp number+27676014490
